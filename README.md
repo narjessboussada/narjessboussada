@@ -64,8 +64,3 @@ Plateforme mobile de recherche de prestataires, prise de rendez-vous et paiement
 - AWS Academy — Cloud Foundations (2024)
 - Microsoft Office Specialist — Excel Associate (2022)
 
-## 📊 Statistiques GitHub
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=narjessboussada&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narjessboussada&layout=compact&theme=tokyonight"/>
-</p>
